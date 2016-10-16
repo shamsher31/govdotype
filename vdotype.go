@@ -3,11 +3,12 @@ package vdotype // import "github.com/shamsher31/govdotype"
 
 import (
 	"errors"
-	"github.com/shamsher31/govdoext"
 	"log"
 	"net/http"
 	"os"
 	"strings"
+
+	"github.com/shamsher31/govdoext"
 )
 
 // Get returns the type of Video
